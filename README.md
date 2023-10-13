@@ -8,7 +8,7 @@
   </a><br>
 <img  src="https://komarev.com/ghpvc/?username=chitkoko7214084&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hello👋
+  Hello
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWszY3llOGNjejU5czdzbmo2cncyMHhyMzNhazMzbG16NjJxeDc0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
