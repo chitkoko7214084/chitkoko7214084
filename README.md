@@ -14,7 +14,7 @@
   </div>
 
 <div id="profile" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/fDh4AmeW6LvgM5W54z/giphy.gif" width="600" height="300"/>
 
   
   <p>:man_technologist: :wave:</p>
