@@ -20,8 +20,8 @@
   <p>:man_technologist: :wave:</p>
   I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who codes for what a business needs. 
   <br>
-  :telescope: Contacts me for your software. 
-:seedling: Exploring the modern day of latest technologies.
+  :telescope: Contact me for your software. 
+:seedling: Upgrade your business with modern technologies.
 
 :zap: For your business needs, I can provide software for you. 
 
