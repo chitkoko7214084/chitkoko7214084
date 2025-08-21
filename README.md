@@ -18,13 +18,12 @@
 
   
   <p>:man_technologist: :wave:</p>
-  I am a computer science student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who like to code in my free times. 
+  I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who codes for what a business needs. 
   <br>
-  :telescope: While I am still in school,I like to build frontend and backend web applications.
-
+  :telescope: Contacts me for your software. 
 :seedling: Exploring the modern day of latest technologies.
 
-:zap: In my free time, I research about AI and machine learning.
+:zap: For your business needs, I can provide software for you. 
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-chitkoko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chit-ko-933b0bb2/)
 ### :hammer_and_wrench: Languages and Tools :
