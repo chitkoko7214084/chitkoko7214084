@@ -1,65 +1,95 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/chit-ko-933b0bb2">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a><br>
-<img  src="https://komarev.com/ghpvc/?username=chitkoko7214084&style=flat-square&color=blue" alt=""/>
-<h1>
-  Hello
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWszY3llOGNjejU5czdzbmo2cncyMHhyMzNhazMzbG16NjJxeDc0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  </div>
-
-<div id="profile" align="center">
-  <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="600" height="300"/>
-
-  
-  <p>:man_technologist: :wave:</p>
-  I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who codes for what a business needs. 
-  <br>
-  :telescope: Contact me for your software. 
-:seedling: Upgrade your business with modern technologies.
-
-:zap: For your business needs, I can provide software for you. 
-
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-chitkoko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chit-ko-933b0bb2/)
-### :hammer_and_wrench: Languages and Tools :
-</div>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
-### :fire: My Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chitkoko7214084&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Chit%20Ko&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20%26%20Embedded%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitkoko7214084&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- ### :writing_hand: Blog Posts :
+<br>
+
+<a href="https://www.linkedin.com/in/chit-ko-933b0bb2">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://chitkoko.org">
+  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=chitkoko7214084&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS"/>
+
 </div>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<!--
-**chitkoko7214084/chitkoko7214084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
----
+<br>
 
-### :writing_hand: Blog Posts :
-Here are some ideas to get you started:
+## 👋 About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineer who builds practical solutions for real businesses — from live web platforms to embedded systems running in cars. I work across the stack, from frontend interfaces to backend infrastructure to hardware.
+
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🏟️ MightlySport
+**Live sports platform**
+
+Real-time sports website serving live updates and content.
+
+[`Visit Site →`](https://mightysport.org)
+
+`Web` `Live Data`
+
+</td>
+<td width="33%" valign="top">
+
+### 🛞 Unique Tire & Repair
+**Business website**
+
+Customer-facing site for an auto repair shop — built for bookings, services, and visibility.
+
+[`Visit Site →`](https://uniquetireandrepair.com/)
+
+`Web` `Business`
+
+</td>
+<td width="33%" valign="top">
+
+### 🚗 Car Embedded System
+**Raspberry Pi project**
+
+In-car embedded system built on Raspberry Pi for real-time vehicle applications.
+
+`Python` `Raspberry Pi` `Embedded`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,java,html,css,react,vue,nodejs,python,mysql,firebase,git&theme=dark" />
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chitkoko7214084&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chitkoko7214084&theme=tokyonight&hide_border=true&background=0d1117" width="48%"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitkoko7214084&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
+</div>
