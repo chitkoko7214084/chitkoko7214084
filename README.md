@@ -104,7 +104,5 @@ Survey-based app that detects user emotions and recommends top 10 songs by genre
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
-</div>sule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
+
 </div>
