@@ -69,7 +69,7 @@ In-car embedded system built on Raspberry Pi for real-time vehicle applications.
 Survey-based app that detects user emotions and recommends top 10 songs by genre, with scatter plot visualizations of Spotify track data.
 
 [`Visit Site →`](https://chitkoko7214084.shinyapps.io/spotify-data/)
-[`Visit Repo →`]((https://github.com/chitkoko7214084/Spotify))
+[`Visit Repo →`](https://github.com/chitkoko7214084/Spotify)
 
 `R` `Data Science` `Shiny`
 
