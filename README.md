@@ -18,63 +18,63 @@ I'm a software engineer who builds practical solutions for real businesses from 
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Case Studies
 
 <table>
-<tr>
-<td width="33%" valign="top">
-
-### 🏟️ MightlySport
-**Live sports platform**
-
-Real-time sports website serving live updates and content.
-
-<a href="https://mightysport.org"><code>Visit Site →</code></a>
-
-`Web` `Live Data`
-
-</td>
-<td width="33%" valign="top">
-
-### 🛞 Unique Tire & Repair
-**Business website**
-
-Customer-facing site for an auto repair shop — built for bookings, services, and visibility.
-
-<a href="https://uniquetireandrepair.com/"><code>Visit Site →</code></a>
-
-`Web` `Business`
-
-</td>
-<td width="33%" valign="top">
-
-### 🚗 Car Embedded System
-**Raspberry Pi project**
-
-In-car embedded system built on Raspberry Pi for real-time vehicle applications.
-
-`Python` `Raspberry Pi` `Embedded`
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 🎧 Spotify Mood Analyzer
-**Data science project**
-
-Survey-based app that detects user emotions and recommends top 10 songs by genre, with scatter plot visualizations of Spotify track data.
-
-<a href="https://chitkoko7214084.shinyapps.io/spotify-data/"><code>Visit Site →</code></a>
-<a href="https://github.com/chitkoko7214084/Spotify"><code>Visit Repo →</code></a>
-
-`R` `Data Science` `Shiny`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏟️ MightySport</h3>
+      <p><strong>Live Sports Platform (Architecture & Design)</strong></p>
+      <p>A production-ready sports tournament platform engineered for real-time score delivery and high-concurrency content tracking.</p>
+      <p>
+        <a href="https://mightysport.org"><code>Visit Live Site →</code></a> 
+        <br>
+        <code>🔒 Repo: Private for Security</code>
+      </p>
+      <h4>📐 Architecture Focus:</h4>
+      <ul>
+        <li><strong>Real-time Sync:</strong> Designed event-driven listener trees to pipe live tournament brackets seamlessly to client viewports.</li>
+        <li><strong>Data Isolation:</strong> Architected granular RBAC (Role-Based Access Control) to shield proprietary business metrics.</li>
+      </ul>
+      <sup><code>System Architecture</code> <code>Vue.js</code> <code>Firebase</code> <code>REST APIs</code></sup>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛞 Unique Tire & Repair</h3>
+      <p><strong>Business & Booking Engine (System Design)</strong></p>
+      <p>A customer-facing business platform featuring workflow automation for real-time service scheduling and shop bay allocation.</p>
+      <p>
+        <a href="https://uniquetireandrepair.com/"><code>Visit Live Site →</code></a>
+        <br>
+        <code>🔒 Repo: Private for Security</code>
+      </p>
+      <h4>📐 Architecture Focus:</h4>
+      <ul>
+        <li><strong>Scheduling Pipeline:</strong> Modeled a state machine to handle appointment creation, confirmations, and dynamic bay allocation.</li>
+        <li><strong>UI/UX Modularity:</strong> Optimized asset and component lifecycle to keep the application fast and lightweight over mobile networks.</li>
+      </ul>
+      <sup><code>Workflow Engineering</code> <code>Web Infrastructure</code> <code>UI/UX Blueprint</code></sup>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Car Embedded System</h3>
+      <p><strong>Hardware & IoT Integration</strong></p>
+      <p>An in-car embedded system built on Raspberry Pi designed for real-time vehicle telemetry and hardware applications.</p>
+      <p><code>Active Development</code></p>
+      <sup><code>Python</code> <code>Raspberry Pi</code> <code>Embedded Systems</code></sup>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎧 Spotify Mood Analyzer</h3>
+      <p><strong>Data Science & Analytics</strong></p>
+      <p>A survey-based application that maps user emotions to music metrics, generating top-10 targeted genre recommendations using multidimensional scatter plot visualizations.</p>
+      <p>
+        <a href="https://chitkoko7214084.shinyapps.io/spotify-data/"><code>Live Demo →</code></a> ✨ 
+        <a href="https://github.com/chitkoko7214084/Spotify"><code>Repository →</code></a>
+      </p>
+      <sup><code>R</code> <code>Shiny</code> <code>Data Science</code> <code>Data Visualization</code></sup>
+    </td>
+  </tr>
 </table>
-
-<br>
 
 ## 🛠️ Tech Stack
 
