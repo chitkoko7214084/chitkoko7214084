@@ -48,6 +48,7 @@ I'm a software engineer who builds practical solutions for real businesses from 
         <code>🔒 Repo: Private for Security</code>
       </p>
       <h4>📐 Architecture Focus:</h4>
+      <a href="https://github.com/chitkoko7214084/uniquetireshop"><code>Visit for protoype and design repo →</code></a>
       <ul>
         <li><strong>Scheduling Pipeline:</strong> Modeled a state machine to handle appointment creation, confirmations, and dynamic bay allocation.</li>
         <li><strong>UI/UX Modularity:</strong> Optimized asset and component lifecycle to keep the application fast and lightweight over mobile networks.</li>
