@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Chit%20Ko&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20%26%20Embedded%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
@@ -16,19 +15,19 @@
 
 <br>
 
-## 👋 About
+##  About
 
 I'm a software engineer who builds practical solutions for real businesses — from live web platforms to embedded systems running in cars. I work across the stack, from frontend interfaces to backend infrastructure to hardware.
 
 <br>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🏟️ MightlySport
+###  MightlySport
 **Live sports platform**
 
 Real-time sports website serving live updates and content.
@@ -52,7 +51,7 @@ Customer-facing site for an auto repair shop — built for bookings, services, a
 </td>
 <td width="33%" valign="top">
 
-### 🚗 Car Embedded System
+###  Car Embedded System
 **Raspberry Pi project**
 
 In-car embedded system built on Raspberry Pi for real-time vehicle applications.
@@ -75,7 +74,7 @@ In-car embedded system built on Raspberry Pi for real-time vehicle applications.
 
 <br>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
