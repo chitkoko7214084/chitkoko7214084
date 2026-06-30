@@ -32,9 +32,8 @@ I'm a software engineer who builds practical solutions for real businesses from 
         <code>🔒 Repo: Private for Security</code>
       </p>
       <h4>📐 Architecture Focus:</h4>
-            <a href=https://github.com/chitkoko7214084/mightly_sport"><code>Visit for protoype and design repo →</code></a>
-
-      <ul>
+            <a href="https://github.com/chitkoko7214084/mightly_sport"><code>Visit for protoype and design repo →</code></a>
+<ul>
         <li><strong>Real-time Sync:</strong> Designed event-driven listener trees to pipe live tournament brackets seamlessly to client viewports.</li>
         <li><strong>Data Isolation:</strong> Architected granular RBAC (Role-Based Access Control) to shield proprietary business metrics.</li>
       </ul>
