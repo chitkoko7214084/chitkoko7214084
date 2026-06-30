@@ -62,7 +62,9 @@ I'm a software engineer who builds practical solutions for real businesses from 
       <h3>🚗 Car Embedded System</h3>
       <p><strong>Hardware & IoT Integration</strong></p>
       <p>An in-car embedded system built on Raspberry Pi designed for real-time vehicle telemetry and hardware applications.</p>
-      <p><code>Active Development</code></p>
+      <p><code>Active Development</code>
+            <a href ="https://github.com/chitkoko7214084/rasberry_Pi_Car"><code>Visit for repo -></code></a>
+</p>
       <sup><code>Python</code> <code>Raspberry Pi</code> <code>Embedded Systems</code></sup>
     </td>
     <td width="50%" valign="top">
