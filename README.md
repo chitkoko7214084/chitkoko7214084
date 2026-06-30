@@ -1,8 +1,5 @@
 <div align="center">
 
-
-<br>
-
 <a href="https://www.linkedin.com/in/chit-ko-933b0bb2">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -17,7 +14,7 @@
 
 ##  About
 
-I'm a software engineer who builds practical solutions for real businesses — from live web platforms to embedded systems running in cars. I work across the stack, from frontend interfaces to backend infrastructure to hardware.
+I'm a software engineer who builds practical solutions for real businesses from live web platforms to embedded systems. I work across the stack, from frontend interfaces to backend infrastructure to hardware.
 
 <br>
 
@@ -32,7 +29,7 @@ I'm a software engineer who builds practical solutions for real businesses — f
 
 Real-time sports website serving live updates and content.
 
-[`Visit Site →`](https://mightysport.org)
+<a href="https://mightysport.org"><code>Visit Site →</code></a>
 
 `Web` `Live Data`
 
@@ -44,7 +41,7 @@ Real-time sports website serving live updates and content.
 
 Customer-facing site for an auto repair shop — built for bookings, services, and visibility.
 
-[`Visit Site →`](https://uniquetireandrepair.com/)
+<a href="https://uniquetireandrepair.com/"><code>Visit Site →</code></a>
 
 `Web` `Business`
 
@@ -68,8 +65,8 @@ In-car embedded system built on Raspberry Pi for real-time vehicle applications.
 
 Survey-based app that detects user emotions and recommends top 10 songs by genre, with scatter plot visualizations of Spotify track data.
 
-[`Visit Site →`](https://chitkoko7214084.shinyapps.io/spotify-data/)
-[`Visit Repo →`](https://github.com/chitkoko7214084/Spotify)
+<a href="https://chitkoko7214084.shinyapps.io/spotify-data/"><code>Visit Site →</code></a>
+<a href="https://github.com/chitkoko7214084/Spotify"><code>Visit Repo →</code></a>
 
 `R` `Data Science` `Shiny`
 
@@ -84,21 +81,6 @@ Survey-based app that detects user emotions and recommends top 10 songs by genre
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,java,html,css,react,vue,nodejs,python,r,mysql,firebase,git&theme=dark" />
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chitkoko7214084&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=chitkoko7214084&theme=tokyonight&hide_border=true&background=0d1117" width="48%"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitkoko7214084&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%"/>
 
 </div>
 
