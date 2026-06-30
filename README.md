@@ -64,7 +64,7 @@ In-car embedded system built on Raspberry Pi for real-time vehicle applications.
 
 <br>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
