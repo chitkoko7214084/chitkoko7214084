@@ -39,7 +39,7 @@ Real-time sports website serving live updates and content.
 </td>
 <td width="33%" valign="top">
 
-### 🛞 Unique Tire & Repair
+###  Unique Tire & Repair
 **Business website**
 
 Customer-facing site for an auto repair shop — built for bookings, services, and visibility.
