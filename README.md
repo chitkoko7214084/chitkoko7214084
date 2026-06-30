@@ -21,13 +21,13 @@ I'm a software engineer who builds practical solutions for real businesses — f
 
 <br>
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-###  MightlySport
+### 🏟️ MightlySport
 **Live sports platform**
 
 Real-time sports website serving live updates and content.
@@ -39,7 +39,7 @@ Real-time sports website serving live updates and content.
 </td>
 <td width="33%" valign="top">
 
-###  Unique Tire & Repair
+### 🛞 Unique Tire & Repair
 **Business website**
 
 Customer-facing site for an auto repair shop — built for bookings, services, and visibility.
@@ -51,7 +51,7 @@ Customer-facing site for an auto repair shop — built for bookings, services, a
 </td>
 <td width="33%" valign="top">
 
-###  Car Embedded System
+### 🚗 Car Embedded System
 **Raspberry Pi project**
 
 In-car embedded system built on Raspberry Pi for real-time vehicle applications.
@@ -60,26 +60,40 @@ In-car embedded system built on Raspberry Pi for real-time vehicle applications.
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🎧 Spotify Mood Analyzer
+**Data science project**
+
+Survey-based app that detects user emotions and recommends top 10 songs by genre, with scatter plot visualizations of Spotify track data.
+
+[`Visit Site →`](https://chitkoko7214084.shinyapps.io/spotify-data/)
+
+`R` `Data Science` `Shiny`
+
+</td>
+</tr>
 </table>
 
 <br>
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,java,html,css,react,vue,nodejs,python,mysql,firebase,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,java,html,css,react,vue,nodejs,python,r,mysql,firebase,git&theme=dark" />
 
 </div>
 
 <br>
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=chitkoko7214084&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chitkoko7214084&theme=tokyonight&hide_border=true&background=0d1117" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=chitkoko7214084&theme=tokyonight&hide_border=true&background=0d1117" width="48%"/>
 
 <br>
 
@@ -91,4 +105,5 @@ In-car embedded system built on Raspberry Pi for real-time vehicle applications.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
+</div>sule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
 </div>
